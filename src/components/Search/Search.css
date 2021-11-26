@@ -1,0 +1,27 @@
+.navbar-form {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  padding: 2rem;
+}
+
+.navbar-form input {
+  width: 250px;
+  padding: 0.3rem;
+  font-size: 1.1rem;
+  border: 2px solid;
+  border-radius: 5px;
+  border-image: linear-gradient(225deg, #6610f2 0%, #1b1b22 100%) 1;
+}
+
+.navbar-form button {
+  padding: 0.4rem;
+  font-size: 1.1rem;
+  border-radius: 5px;
+  margin-left: 1rem;
+  background: #1b1b22;
+  border-radius: 15px;
+  border: 2px solid;
+  border-image: linear-gradient(225deg, #6610f2 0%, #1b1b22 100%) 1;
+  color: white;
+}
